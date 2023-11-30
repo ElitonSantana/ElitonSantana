@@ -1,7 +1,6 @@
 ### Oii, eu sou o Eliton Santana ! 👋
 
 - 🔭 Desenvolvedor Back-End
-- 🌱 Estudando Front-End
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tom-Csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
